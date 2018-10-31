@@ -67,6 +67,9 @@ lastUpdated: 2018-10-22
 
 ## Resources
 - [Supported Environments](Other/Support.md)
+  - [enebular](Other/Support.md#enebular)
+  - [enebular agent](Other/Support.md#enebular-agent)
+  - [enebular edge agent](Other/Support.md#enebular-edge-agent)
 - [Release Notes](Releases/index.md)
   - [enebular](Releases/index.md#enebular)
     - [2.5.2](Releases/enebular/2.5.2.md)
