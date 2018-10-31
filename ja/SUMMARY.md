@@ -66,11 +66,11 @@ lastUpdated: 2018-10-22
   - [Account Settings](Account/index.md)
 
 ## Resources
-- [Supported Environments](Other/Support.md)
+- [Supported Environments]()
   - [enebular](Other/Support.md#enebular)
   - [enebular agent](Other/Support.md#enebular-agent)
   - [enebular edge agent](Other/Support.md#enebular-edge-agent)
-- [Release Notes](Releases/index.md)
+- [Release Notes]()
   - [enebular](Releases/index.md#enebular)
     - [2.5.2](Releases/enebular/2.5.2.md)
     - [2.5.1](Releases/enebular/2.5.1.md)
